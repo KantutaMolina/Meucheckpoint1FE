@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+
+body{
+background-image: url(/img/Praia-de-Piratininga-768x497.jpg);
+background-repeat: no-repeat;
+background-position: top;
+background-size: cover;
+background-attachment: fixed;
+}
+
+header{
+    padding: 20px 0px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(113, 113, 196, 0.459);
+}
+
+.fundo-texto{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgba(51, 51, 185, 0.459);
+    text-align:justify;
+    font-size: 18px;
+    color:rgb(243, 230, 230) ;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icone{
+    padding: 10px;
+    margin:10px;
+    color: rgba(5, 4, 73);
+    text-align:justify;
+}
