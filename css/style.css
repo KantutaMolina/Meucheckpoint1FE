@@ -1,63 +1,62 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap");
 
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-body{
-background-image: url(../img/vista.jpg);
-background-repeat: no-repeat;
-background-position: top;
-background-size: cover;
-background-attachment: fixed;
+body {
+  background-image: url(../img/vista.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
-header{
-    padding: 20px;
-    font-family:'Dancing Script', cursive, Arial, Helvetica, sans-serif;
-    color: whitesmoke;
-    text-align: center;
-    font-size: 40px;
-    width: 100%;
-    background-color: rgba(30, 30, 53, 0.705);
+header {
+  padding: 20px;
+  font-family: "Dancing Script", cursive, Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 40px;
+  width: 100%;
+  background-color: rgba(30, 30, 53, 0.705);
 }
 
-.fundo{
-    padding: 20px 25px;
-    margin: 10px;
-    background-color: rgba(30, 30, 53, 0.705);
-    
-    font-size: 18px;
+.fundo {
+  padding: 20px 25px;
+  margin: 10px;
+  background-color: rgba(30, 30, 53, 0.705);
+
+  font-size: 18px;
 }
 
-.fundo-texto{
-    
-    text-align:justify;
-    font-size: 18px;
-    color:rgb(243, 230, 230) ;
-    font-family:'Zilla Slab', serif, Georgia, 'Times New Roman', Times, serif;
+.fundo-texto {
+  text-align: justify;
+  font-size: 18px;
+  color: rgb(243, 230, 230);
+  font-family: "Zilla Slab", serif, Georgia, "Times New Roman", Times, serif;
 }
 
-iframe{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.icone{
-    padding: 5px 10px;
-    margin:0px 0px;
+.icone {
+  padding: 5px 10px;
+  margin: 0px 0px;
 }
 
-.icone img{
-width: 20px;
+.icone img {
+  width: 20px;
 }
 
-.icone a{
-    color:rgb(243, 230, 230) ;
-    font-size: 18px;
-    font-family:'Dancing Script', cursive, Arial, Helvetica, sans-serif;
+.icone a {
+  color: rgb(243, 230, 230);
+  font-size: 18px;
+  font-family: "Dancing Script", cursive, Arial, Helvetica, sans-serif;
 }
