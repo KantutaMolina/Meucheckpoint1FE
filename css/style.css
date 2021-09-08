@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
-
 
 body{
 background-image: url(/img/Praia-de-Piratininga-768x497.jpg);
@@ -15,22 +16,24 @@ background-attachment: fixed;
 }
 
 header{
-    padding: 20px 0px;
+    padding: 20px 10px;
+    font-family:'Dancing Script', cursive, Arial, Helvetica, sans-serif;
     color: whitesmoke;
     text-align: center;
     font-size: 40px;
     width: 100%;
     height: 100px;
-    background-color: rgba(113, 113, 196, 0.459);
+    background-color: rgba(113, 113, 196, 0.137);
 }
 
 .fundo-texto{
-    padding: 10px 20px;
+    padding: 20px 10px;
     margin: 10px;
-    background-color: rgba(51, 51, 185, 0.459);
+    background-color: rgba(51, 51, 185, 0.705);
     text-align:justify;
     font-size: 18px;
     color:rgb(243, 230, 230) ;
+    font-family:'Zilla Slab', serif, Georgia, 'Times New Roman', Times, serif;
 }
 
 iframe{
@@ -40,8 +43,11 @@ iframe{
 }
 
 .icone{
-    padding: 10px;
-    margin:10px;
-    color: rgba(5, 4, 73);
+    padding: 20px 10px;
+    margin:0px 9px;
+    background-color: rgba(51, 51, 185, 0.705);
+    font-size: 18%;
+    color:rgb(243, 230, 230) ;
+    font-family:'Dancing Script', cursive, Arial, Helvetica, sans-serif;
     text-align:justify;
 }
