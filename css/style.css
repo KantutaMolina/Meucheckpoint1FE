@@ -61,3 +61,20 @@ iframe {
   font-size: 18px;
   font-family: "Dancing Script", cursive, Arial, Helvetica, sans-serif;
 }
+
+#btn-formulario {
+  margin-top: 12px;
+  padding: 16px 50px;
+  border-radius: 4rem;
+  background-color: rgba(255, 255, 0, 1);
+  font-weight: bold;
+  font-size: 16px;
+  transition: all 200ms ease;
+}
+
+#btn-formulario:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  background-color: rgb(255, 174, 0);
+  color: white;
+}
